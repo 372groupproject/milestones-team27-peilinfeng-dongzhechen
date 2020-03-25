@@ -1,3 +1,7 @@
 Book: GNU Octave Edition 5 
+      GNU Octave Beginner's Guide         Jesper Schmidt Hansen 
 Web-site: https://www.tutorialspoint.com/matlab/matlab_gnu_octave.htm
+          https://octave.org/doc/v4.0.1/Simple-Examples.html
 GNU Octave is software featuring a High-level programming language, primarily intended for numerical computations. Octave helps in solving linear and nonlinear problems numerically, and for performing other numerical experiments using a language that is mostly compatible with MATLAB.
+
+
