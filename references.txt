@@ -6,4 +6,8 @@ GNU Octave is software featuring a High-level programming language, primarily in
 
 Community: https://www.researchgate.net/topic/GNU-Octave
 
+Major Project: https://github.com/rodralez/NaveGo
+
+Using terminal to compile the language
+
 
