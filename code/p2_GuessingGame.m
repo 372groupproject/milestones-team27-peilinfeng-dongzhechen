@@ -1,4 +1,4 @@
-function p2_somethingelse
+function p2_GuessingGame
 disp('Guess a number from 1 to 100 you have 10 chance');
 C = 10;
 Guess = 0;
