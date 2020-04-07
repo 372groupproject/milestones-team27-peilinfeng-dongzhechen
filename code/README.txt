@@ -8,9 +8,11 @@ on your terimal
 
 milestone2:
 before run make, you need install octave on your PC.
-For milestone2, we have p2_if.m p2_while.m p2_for.m p2_switch.m p2_somesthingelse.m.
+For milestone2, we have p2_if.m p2_while.m p2_for.m p2_switch.m p2_GuessingGame.m.
 
 p2_if.m: this file have if else statment for octave/Matlab
 p2_while.m: this file have while loop statment for octave/Matlab
 p2_for.m: this file have for loop statment for octave/Matlab
 p2_switch.m: this file have switch statment for octave/Matlab
+p2_GuessingGame: this is a Guessing game for octave/Matlab. you need input a number (1-100) to guess a number.You total have 10 chance to guess this number. it has while loop and if else statment.
+If you want to run one of those progrom individually, you can type "octave filename" on terimal. To run octave(.m) file you need install octave.
