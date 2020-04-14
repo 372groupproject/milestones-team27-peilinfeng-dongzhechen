@@ -1,0 +1,7 @@
+Our program will implement a database that stores students name and their grades based on one class. The database starts with null and after reading from user input, it will store different info into the database, and calculate each student final grade and class average grade and so on, at the end show these results as graph. 
+
+We expect the program to have different functions, such as reading user input, storing info into different categray, show result as graph. 
+
+We expect the program to be move 100 lines at least. 
+
+We think it will be good illustration of the feature of our language because one of the most useful tool of matlab is to visualize the data. Therefore, we can use graph to visualize grade to fully use this unique tool of matlab. 
