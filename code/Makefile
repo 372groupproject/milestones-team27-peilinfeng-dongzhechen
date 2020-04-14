@@ -1,6 +1,8 @@
-Milestone2:
-	octave p2_if.m
-	octave p2_switch.m
-	octave p2_for.m
-	octave p2_while.m
-	octave p2_GuessingGame.m
+Milestone3:
+	octave p3_single.m
+	octave p3_double.m
+	octave p3_char.m
+	octave p3_logical.m
+	octave p3_structure.m
+	octave p3_cellArray.m
+	octave p3_studentsGrades.m
