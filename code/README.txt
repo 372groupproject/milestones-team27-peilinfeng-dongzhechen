@@ -30,3 +30,11 @@ p3_studentsGrades.m : it is print out the students name, final score and final g
 
 p3_rTimeErro.m: it is show the run time error for the octave/matlab.(it is not in the make file. For run this progrom, you need go to octave. Then run progrom,which type p3_rTimeError in the octave workespace)
 p3_cTimeError.m: it is how the compile time error for the octave/maltab. (t is not in the make file. For run this progrom, you need go to octave. Then run progrom, which type p3_cTimeError in the octave workespace.)
+
+
+
+milestone 4:
+beforerun make, you need install octave on your PC.
+for milestone4, we have p4_BasicClass.m and p4_maim.m file
+p4_BasicClass.m: it show the how class to create and some method inside the class.
+p4_main.m: it is script file for the octave/matlab. it looks like main function for JAVA. it can easay to call other function and class. Fot this milestone. It is creat two p4_BasicClass. It has a group data. Then it will shou plot grapg on you computer
