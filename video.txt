@@ -1,0 +1,9 @@
+The general theme of the video is to introduce more about matlab/octave
+
+Matlab/Octave is a very convinent tool to help doing visualization based on data. 
+
+The code samples will be how we combine each feature from matlab/octave into the program we wrote.
+
+We will demo our video through zoom 
+
+We will shoot the video on zoom, we can do share screen and voice of our video.
