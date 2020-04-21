@@ -1,0 +1,2 @@
+program:
+  octave maim.m
