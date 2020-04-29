@@ -1,2 +1,2 @@
 program:
-  octave maim.m
+  octave main.m
