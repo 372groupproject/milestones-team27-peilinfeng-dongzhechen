@@ -1,5 +1,4 @@
-students = {};
-grade = [];
-[students,grade] = getInput(students,grade);
-M = containers.Map(students,grade);
-class_average(grade);
+
+studentsScore = getInput;
+studentsGrade = class_average(studentsScore);
+showGraph(studentsGrade,studentsScore);
